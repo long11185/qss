@@ -1,0 +1,53 @@
+QPushButton{
+ color:yellow;
+ border:2px groove gray;
+ border-radius:10px;
+ padding:2px 4px;
+ width:85px;
+ height:15px;
+ background:#245e99;
+}
+
+QPushButton:hover{
+    color:white;
+    background:#666666;
+}
+
+
+QPushButton:pressed{
+    color:red;
+    background-color:rgb(44 , 137 , 255);
+}
+
+
+QLabel{
+
+ color:blue;
+
+}
+
+
+QLineEdit{
+ color:white;
+ border:2px groove gray;
+ border-radius:10px;
+ padding:2px 4px;
+ background:#bea289;
+
+
+}
+
+QGroupBox{
+
+ border:2px groove gray;
+ border-radius:10px;
+ padding:2px 4px;
+
+font-family: "Microsoft YaHei";
+font-weight:bold;
+font-size:14px;
+color: #303030;
+
+
+
+}
